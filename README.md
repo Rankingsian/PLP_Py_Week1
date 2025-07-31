@@ -31,19 +31,3 @@ Enter choice (1/2/3/4): 2
 Enter first number: 8
 Enter second number: 3
 Result: 5.0
-📝 Notes
-Handles division by zero.
-
-Accepts only valid numeric inputs.
-
-Runs in the terminal (command-line interface).
-
-🙋 Author
-Ian Wairimu
-Computer Science Student – Mt. Kenya University
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to add a screenshot or GitHub link section!
